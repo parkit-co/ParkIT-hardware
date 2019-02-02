@@ -1,4 +1,4 @@
 # Hardware
-## Raspberry Pi, USB Webcam, PIR Sensor
+## Raspberry Pi, USB Webcam, PIR Sensor, OpenALPR, OpenCV, Tesseract, Leptonica
 ### Bash script
   - for interpreting USB webcam
