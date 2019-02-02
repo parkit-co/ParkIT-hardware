@@ -1,4 +1,5 @@
 # IoT Component
 ## Raspberry Pi, USB Webcam, PIR Sensor, OpenALPR, OpenCV, Tesseract, Leptonica
-### Bash script
+### Bash scripts
   - for interpreting USB webcam
+  - for calling OpenAPLR library and returning license plate information
